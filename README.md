@@ -48,6 +48,3 @@ youth %>%
   ggplot(aes(fct_infreq(race)%>% fct_rev())) + 
   geom_bar()+coord_flip()+labs(x="Victim race")
 ```
-
-[New Text Document.txt](https://github.com/MahsaKarkhaneh/ANA-515-Assignment-1/files/9485494/New.Text.Document.txt)
-[week2.docx](https://github.com/MahsaKarkhaneh/ANA-515-Assignment-1/files/9485495/week2.docx)
